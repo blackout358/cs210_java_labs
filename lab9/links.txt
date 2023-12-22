@@ -1,0 +1,9 @@
+https://cs.stackexchange.com/questions/11029/why-is-it-best-to-use-a-prime-number-as-a-mod-in-a-hashing-function
+https://www.reddit.com/r/C_Programming/comments/m96im5/whats_a_rule_of_thumb_to_minimize_collisions_in_a/
+https://www.geeksforgeeks.org/what-is-hashing/
+https://algs4.cs.princeton.edu/34hash/
+https://www.javatpoint.com/double-hashing-in-java
+
+
+h(45, 1) = (1 + 1 * 3) mod 11
+h2(45) = 8 - (45 mod 8) = 3
